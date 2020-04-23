@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hangman 3</string>
+
+    <string name="gameWord">hello</string>
+
+    <string-array name="gameWordList">
+        <item>random</item>
+        <item>java</item>
+        <item>orange</item>
+        <item>apple</item>
+    </string-array>
+
+</resources>
